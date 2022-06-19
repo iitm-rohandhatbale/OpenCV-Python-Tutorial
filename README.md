@@ -3,5 +3,5 @@ This repository has all the Jupyter Notebooks for OpenCV Python from basics of I
 
 
 ## Image Basics
-  1. Read Image ([notebook](1. Image Basics/1. Read Image.ipynb))
-  2. Image Processing ([notebook](1. Image Basics/2. Image processing.ipynb))
+  1. Read Image ([notebook](./1. Image Basics/1. Read Image.ipynb))
+  2. Image Processing ([notebook](./1. Image Basics/2. Image processing.ipynb))
